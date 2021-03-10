@@ -86,5 +86,21 @@
     "end":"24/08/2021",
     "organisation":"Collabora, Google, Mozilla, Red Hat and many more ",  
     "location":"Online"
+  },
+  {
+    "title":"Bountiful Open Source Summer",
+    "website":"lab.codingblocks.com/boss",
+    "start":"15/05/2021",
+    "end":"15/08/2021",
+    "organisation":"Coding Blocks ",  
+    "location":"Online"
+  },
+  {
+    "title":"Season of Docs",
+    "website":"developers.google.com/season-of-docs",
+    "start":"16/04/2021",
+    "end":"30/09/2021",
+    "organisation":"LibreOffice, PostgreSQL, Apache, Arduino and many more",  
+    "location":"Online"
   }
 ]
